@@ -12,3 +12,5 @@ This repo includes:
         Include the original feature descriptions
   - datatidy.txt
         The output of the script
+  - CodeBook.md
+        Contains additional infos about original fields and normalization applied
