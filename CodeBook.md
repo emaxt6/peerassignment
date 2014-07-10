@@ -14,6 +14,7 @@ The script then retain only the "mean" and "std" column as requested performing 
 For example:
 
 "15 tBodyAcc-min()-Z" becomes "x15tbodyaccminz"
+
 "41 tGravityAcc-mean()-X" becomes "x41tgravityaccmeanx"
 
 etc.
